@@ -1,0 +1,1 @@
+console.log('Node express and typescript setup')
